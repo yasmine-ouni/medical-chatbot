@@ -1,0 +1,5 @@
+Flask
+streamlit
+langchain
+python-dotenv
+transformers
